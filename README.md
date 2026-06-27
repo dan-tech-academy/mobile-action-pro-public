@@ -1,31 +1,39 @@
-# Kotlin Accelerator
+# Mobile Action Pro
 
 <p align="center">
-  <img src="graphics/kotlin-accelerator-logo.png" width="112" alt="Kotlin Accelerator logo" />
+  <img src="graphics/mobile-action-pro-logo.png" width="112" alt="Mobile Action Pro logo" />
 </p>
 
 <p align="center">
-  <strong>Android learning app for the Kotlin Accelerator program by Dan Tech Academy.</strong>
+  <strong>Android practice app for the Kotlin Accelerator learning path by Dan Tech Academy.</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/dan-tech-academy/kotlin-accelerator-public/releases/latest">Download APK</a>
+  <a href="README.vi.md">Tiếng Việt</a> |
+  <a href="https://www.dantech.academy/kotlin-accelerator?ref=Q9HB4B65">Join Kotlin Accelerator</a> |
+  <a href="https://github.com/dan-tech-academy/mobile-action-pro-public/releases/latest">Download APK</a>
 </p>
 
 ## Overview
 
-Kotlin Accelerator helps Android learners practice Kotlin, Jetpack Compose, and real mobile engineering patterns through short quiz sessions, progress tracking, and course-focused challenges.
+Mobile Action Pro is the Android companion app for learners who want to turn Kotlin and Jetpack Compose lessons into daily practice. It gives Kotlin Accelerator students a focused quiz experience with progress feedback, profile tracking, leaderboard motivation, and mobile-first repetition.
 
 This public repository contains only the product overview, screenshots, logo, and public APK releases. The application source code and private course infrastructure are not published here.
+
+## Course
+
+Start here:
+
+[Kotlin Accelerator course](https://www.dantech.academy/kotlin-accelerator?ref=Q9HB4B65)
 
 ## Benefits
 
 | Benefit | What learners get |
 |---------|-------------------|
-| Faster Kotlin recall | Practice core Kotlin and Android concepts with focused quiz rounds. |
+| Faster Kotlin recall | Practice Kotlin, Android, and Compose concepts through short quiz rounds. |
 | Real app context | Learn with screens and workflows inspired by production Android apps. |
 | Progress feedback | Track scores, completion, and profile progress while practicing. |
-| Course alignment | Content is designed to support the Kotlin Accelerator learning path. |
+| Course alignment | Reinforce the Kotlin Accelerator learning path with mobile exercises. |
 | Mobile-first habit | Practice directly on Android instead of only reading lessons or docs. |
 
 ## Screenshots
@@ -41,11 +49,11 @@ This public repository contains only the product overview, screenshots, logo, an
 
 Latest public APK:
 
-[Download Kotlin Accelerator APK](https://github.com/dan-tech-academy/kotlin-accelerator-public/releases/latest)
+[Download Mobile Action Pro APK](https://github.com/dan-tech-academy/mobile-action-pro-public/releases/latest)
 
 Current release asset:
 
-`kotlin-accelerator-v1.0.0.apk`
+`mobile-action-pro-v1.0.0.apk`
 
 ## Installation
 
